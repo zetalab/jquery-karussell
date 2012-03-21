@@ -29,3 +29,7 @@ Optionally, Karussell supports two parameters, "wipetime" and "pause", indicatin
 ##Example
 
 see the plugin in action on http://ok200.org/carousel
+
+##License 
+
+jQuery Karussell is licensed under the MIT License
