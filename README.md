@@ -26,4 +26,6 @@ Optionally, Karussell supports two parameters, "wipetime" and "pause", indicatin
 
 		$('#k1').karussell({wipetime: 500, pause: 2000});
 	
+##Example
 
+see the plugin in action on http://ok200.org/carousel
