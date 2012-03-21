@@ -1,6 +1,6 @@
 #jQuery Karussell
 
-Karussell is just another carousel plugin for jQuery. Contrary to other plugins it offers a continuous carousel playback without skipping back to the first frame. 
+Karussell is just another carousel plugin for jQuery. Contrary to other plugins it offers continuous carousel playback without skipping back to the first frame. 
 
 ##Features
 * jQuery plugin for carousel without skipping back to start
