@@ -13,7 +13,7 @@ Include "jquery.plugin.karussell-1.0.js" in your HTML like so:
 
 		<script src="jquery.plugin.karussell-1.0.js" type="text/javascript" charset="utf-8"></script>
 
-Call .karussell() on the <div> that contains the individual carousel frames (enclosed by <div>s preferrably):
+Call .karussell() on the &lt;div&gt; that contains the individual carousel frames (enclosed by &lt;div&gt;s preferrably):
 
 		$('#k1').karussell();
 		<div id="k1">
@@ -22,7 +22,7 @@ Call .karussell() on the <div> that contains the individual carousel frames (enc
 			<div class="data"><img src="pano3.jpg"></div>
 		</div>
 	
-Optionally, Karussel supports two parameters, "wipetime" and "pause", indicating the time for sliding a frame and the pause, respectively:
+Optionally, Karussell supports two parameters, "wipetime" and "pause", indicating the time for sliding a frame and the pause, respectively:
 
 		$('#k1').karussell({wipetime: 500, pause: 2000});
 	
