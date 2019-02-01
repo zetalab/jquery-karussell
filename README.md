@@ -5,7 +5,7 @@ Karussell is just another carousel plugin for jQuery. Contrary to other plugins 
 ## Features
 * jQuery plugin for carousel without skipping back to start
 * chainable
-* just basic functionality, if you want more, go ahead, fork and tell me to pull
+* just basic functionality, if you want more, go ahead, fork and send a PR
 	
 ## Usage
 	
