@@ -1,13 +1,13 @@
-#jQuery Karussell
+# jQuery Karussell
 
 Karussell is just another carousel plugin for jQuery. Contrary to other plugins it offers continuous carousel playback without skipping back to the first frame. 
 
-##Features
+## Features
 * jQuery plugin for carousel without skipping back to start
 * chainable
-* just basic functionality, if you want more, go ahead, fork and tell me to pull
+* just basic functionality, if you want more, go ahead, fork and send a PR
 	
-##Usage
+## Usage
 	
 Include "jquery.plugin.karussell-1.0.js" in your HTML like so:
 
@@ -26,10 +26,10 @@ Optionally, Karussell supports two parameters, "wipetime" and "pause", indicatin
 
 		$('#k1').karussell({wipetime: 500, pause: 2000});
 	
-##Example
+## Example
 
 see the plugin in action on http://ok200.org/carousel
 
-##License 
+## License 
 
 jQuery Karussell is licensed under the MIT License
